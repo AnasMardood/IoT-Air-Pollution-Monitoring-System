@@ -35,8 +35,8 @@ This project aims to create a gas detection system with MQ2 gas sensor, buzzer, 
 4.Web Interface:
 - The gas level and air quality are displayed via the web server.
 
--The HTML page is refreshed every 2 seconds to provide real-time data.
+- The HTML page is refreshed every 2 seconds to provide real-time data.
 
--The background of the page is designed to be dark blue, the text is white, and the air quality colors (green, yellow, red) are displayed.
+- The background of the page is designed to be dark blue, the text is white, and the air quality colors (green, yellow, red) are displayed.
 
 This project demonstrates how a gas detection and warning system can be created and how it can be monitored with a web interface. The system is a practical example for security applications and environmental monitoring.
