@@ -1,7 +1,8 @@
 # IoT-Air-Pollution-Monitoring-System
 Project Description:
 This project aims to create a gas detection system with MQ2 gas sensor, buzzer, 3 LEDs and an LCD display using a NodeMCU. The system turns on LEDs, buzzer and displays the gas level on an LCD display according to certain gas levels. It also establishes WiFi connection to display gas levels in real time through a web server and presents it on an HTML page.
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												
+																																																				![image (2)](https://github.com/user-attachments/assets/25bf6a01-00ba-4494-9904-72d6cbf9de57)
+																																																	
 *Software Components:*
 1. *Arduino IDE:* Used to write codes and upload them to NodeMCU.
 
